@@ -1,4 +1,4 @@
-Tata 1mg Product Catalog Analysis
+**Tata 1mg Product Catalog Analysis**
 
 This project is a deep dive into the product catalog of Tata 1mg, a leading online pharmacy. The goal was to take a raw, web-scraped dataset and transform it into a fully interactive Power BI dashboard that uncovers insights into product performance, pricing strategies, and brand positioning.
 
