@@ -36,3 +36,4 @@ Product Overview: This is the main dashboard that gives a high-level view of the
 Brand Details: This page is a dedicated deep-dive tool. A user can select any brand from a slicer to see a detailed breakdown of its product portfolio, average rating vs. the competition, and a full list of its products.
 
 This project was a great exercise in taking a real-world, messy dataset and building a polished, insightful, and user-friendly analytical tool from scratch.
+Screenshot - https://github.com/whyjustsd/1mg_sales_report/blob/main/1mg_data_report.png
